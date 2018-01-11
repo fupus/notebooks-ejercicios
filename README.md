@@ -17,7 +17,7 @@ Los proyectos disponibles (ordenados de menor a mayor dificultad) son:
 2. Sevici: análisis de datos de un sistema de alquiler de bicicletas 
 3. Bolsa: tratamiento de valores bursátiles
 4. FutElo: sistema de puntuación Elo sobre resultados de fútbol
-5. Ranking ATP: comparación de rankings
+5. ATP: comparación de rankings
 6. Recomendacion: sistema de recomendación de películas
 7. Whatsapp: análisis de mensajes de whatsapp
 8. Montecarlo: aplicaciones del método de Montecarlo
