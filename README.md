@@ -14,13 +14,13 @@ No se inlcuye:
 Los proyectos disponibles (ordenados de menor a mayor dificultad) son:
 
 1. Audiencias (solucionado): análisis de audiencias televisivas
-2. Sevici: análisis de datos de un sistema de alquiler de bicicletas 
-3. Bolsa: tratamiento de valores bursátiles
+2. Sevici: identificación de estaciones en una red de alquiler de bicicletass 
+3. Bolsa: análisis de datos bursátiles
 4. FutElo: sistema de puntuación Elo sobre resultados de fútbol
 5. ATP: comparación de rankings
 6. Recomendacion: sistema de recomendación de películas
-7. Whatsapp: análisis de mensajes de whatsapp
-8. Montecarlo: aplicaciones del método de Montecarlo
+7. Whatsapp: Cálculo de indicadores a partir de logs de conversaciones de whatsapp
+8. Montecarlo: aplicaciones del método de Montecarlo a la estimación de $\pi$ y el nivel de fuerza de una jugada de póker
 
 Para poder ejecutar los notebooks es necesario instalar Jupyter (http://jupyter.org/). Lo más recomendable es hacerlo a través de la distribución de Anaconda (https://conda.io/docs/user-guide/install/download.html) que incluye el intérprete de Python, y la mayoría de las librerías que usaremos a lo largo del curso.
 
