@@ -8,7 +8,7 @@ Los proyectos están parcialmente resueltos, incluyen:
 - Una celda de código con el test para cada función
 - La decisión de las estructuras usadas para representar los datos del proyecto
 
-No se inlcuye:
+No se incluye:
 - La implementación de las funciones. El cuerpo de las funciones contiene solo una instrucción <code>pass</code> que deberá ser sustituida por una implementación que cubra lo que se indica en el comentario explicativo. 
 
 Los proyectos disponibles (ordenados de menor a mayor dificultad) son:
