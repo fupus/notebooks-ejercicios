@@ -1,7 +1,7 @@
 # notebooks-ejercicios
 Proyectos desarrollados sobre notebooks Jupyter 
 
-Cada notebook contiene un proyecto. Estos proyectos permiten ir descubriendo distintos elementos del lenguaje Python mediante su aplicación en la resolución de un problema concreto.
+Cada notebook contiene un proyecto. Estos proyectos permiten ir descubriendo distintos elementos del lenguaje Python mediante su aplicación en la resolución de un problema concreto.  Se utilizará este material en las clases de teoría.
 
 Los proyectos están parcialmente resueltos, incluyen:
 - La organización del proyecto en funciones. Para cada función se definen los parámetros y se inlcuye un comentario explicativo de su funcionamiento.
