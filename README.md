@@ -13,8 +13,14 @@ No se inlcuye:
 
 Los proyectos disponibles (ordenados de menor a mayor dificultad) son:
 
-- Audiencias (el único que está completamente resuelto)
-
+- Audiencias (solucionado)
+- Sevici
+- Bolsa
+- FutElo
+- Ranking ATP
+- Recomendacion peliculas
+- Whatsapp
+- Montecarlo
 
 Para poder ejecutar los notebooks es necesario instalar Jupyter (http://jupyter.org/). Lo más recomendable es hacerlo a través de la distribución de Anaconda (https://conda.io/docs/user-guide/install/download.html) que incluye el intérprete de Python, y la mayoría de las librerías que usaremos a lo largo del curso.
 
