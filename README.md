@@ -11,7 +11,7 @@ Los proyectos están parcialmente resueltos, incluyen:
 No se incluye:
 - La implementación de las funciones. El cuerpo de las funciones contiene solo una instrucción <code>pass</code> que deberá ser sustituida por una implementación que cubra lo que se indica en el comentario explicativo. 
 
-Los proyectos disponibles (ordenados de menor a mayor dificultad) son:
+Los proyectos disponibles son:
 
 1. **Audiencias (solucionado)**: análisis de audiencias televisivas
 2. **Sevici**: identificación de estaciones en una red de alquiler de bicicletass 
