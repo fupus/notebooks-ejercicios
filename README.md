@@ -1,5 +1,21 @@
 # notebooks-ejercicios
-Proyectos desarrollados sobre notebooks Jupyter 
+Proyectos desarrollados sobre notebooks Jupyter
+
+### Referencia
+Se puede encontrar una explicación más completa de este material docente en el artículo **Introducción a la Programación con Python, Computación Interactiva y Aprendizaje Significativo**  ([PDF](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=430&path%5B%5D=632)), publicado en las _XXIV Jornadas sobre la Enseñanza Universitaria de la Informática_ ([JENUI18](http://jenui2018.uoc.edu/)). Para citar este trabajo:
+
+```
+@article{troyano2018introduccion,
+  title={Introducción a la Programación con Python, Computación Interactiva y Aprendizaje Significativo},
+  author={Troyano, José A. and Cruz, Fermín and González, Mariano and Vallejo, Carlos G. and Toro, Miguel},
+  journal={Actas de XXIV Jornadas sobre la Enseñanza Universitaria de la Informática - JENUI'18},
+  volume={3},
+  pages={223--230},
+  year={2018}
+}
+```
+
+### Contenido
 
 Cada notebook contiene un proyecto. Estos proyectos permiten ir descubriendo distintos elementos del lenguaje Python mediante su aplicación en la resolución de un problema concreto.  Se utilizará este material en las clases de teoría.
 
