@@ -31,7 +31,7 @@ Los proyectos disponibles son:
 
 1. **Audiencias (solucionado)**: análisis de audiencias televisivas
 2. **Sevici**: identificación de estaciones en una red de alquiler de bicicletas
-3. **GPS**: 
+3. **GPS**: análisis de rutas GPS
 3. **Bolsa**: análisis de datos bursátiles
 4. **FutElo**: sistema de puntuación Elo sobre resultados de fútbol
 5. **Whatsapp**: cálculo de indicadores a partir de logs de conversaciones de whatsapp
